@@ -5,6 +5,8 @@ http://103.250.39.13:82/hls3/4tvnews/index.m3u8
 http://103.242.154.2:83/hls/ttvurdu/index.m3u8
 #EXTINF:-1 tvg-name="HYD | M5 CHANNEL" group-title="Hyderabad",HYD | M5 CHANNEL
 http://202.65.144.46:82/hls/99tv1/index.m3u8
+#EXTINF:-1 tvg-name="HYD | SNS CHANNEL" group-title="Hyderabad",HYD | SNS CHANNEL
+http://49.206.195.59:82/hls/sns/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oJi0vLTOcnY/hqdefault.jpg" group-title="Hyderabad",HYD | Y5 Channel
 http://202.65.144.46:82/hls2/y5tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://183.82.145.53:82/inn/video/poster.jpg" group-title="Hyderabad",HYD | INN Channel
