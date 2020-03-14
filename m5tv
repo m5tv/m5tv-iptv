@@ -5,7 +5,7 @@ http://103.250.39.13:82/hls3/4tvnews/index.m3u8
 http://103.242.154.2:83/hls/ttvurdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/EOVHNjR8aoHFKDod6k5mHN5LDQ_L_X-OwRQhqVr29RqI3F5EM1l0YXVPOKr7trmtDuo9XEA6zNd_eW9zLgiohXpoxAZUO41yL-9ZRScs2p8DyDZ99SfrXnz0elKYTXcrvjmr1HGBjkIZl837-7RaOiS0SI3aFTkkm5QbaoBNwipWqM-JPSwoFEkO66AUDPZGwy4I7VL7BX6LsO8tWh7UwRX3mC-bFqJFPACAXMVHkNLrAio8g0-4OmcKH2EVIpruWIz3n4aQRYBWEWDobRmIhafV4s-CcvTW-YTWKw48GeJX6WauVPvEh41SjXxXg_YM_upLvvgsOzr8xMMoNX7hQHBLPesBdHYKLjjplZ53yzPm0X4t1b9Jow4ol3bQp7hhacXIzIcbeTlSW0iCO1BN62NGuM0Q-8ERnDPBAMZIBSPQgesm2MbeQiJu62SbsnEmij48O-fbmEzSDUK6bE6hiUpgTCZ1KEAxzvJx9_wPa7HTJxpNio_mLFrhSsBhj_ED48DGxcK-QA63AQcYjtZaVT4fZl-CfcTrT0jRNGklLZgRBA3TJh5Nh9tFJeZGea4p1yqYuBmmd8xknoqJdNJPPCB-LTPI3YDAuFk5HbTEvDtp9D81w0kJuba6baywHuEN-Fu3y2PGCFw-eFp00ELdeyn5kNpfqk57q-b5z8Y51VncnAUCw-e08xbu=s307-no" group-title="Hyderabad",HYD | M5 Channel
 http://202.65.144.46:82/hls/99tv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FSnsHydNews%2F&psig=AOvVaw1rIHz6AaFfqLPCUPFogOFa&ust=1584279723614000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDU1YeMmugCFQAAAAAdAAAAABAD" group-title="Hyderabad",HYD | SNS Channel
+#EXTINF:-1 tvg-logo="https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/1385727_668483419879595_1086489418_n.jpg?_nc_cat=104&_nc_sid=85a577&_nc_oc=AQkXPzxvZqyiVNc92qQle6Ld2bSvYlBT31WytLw7Ax_zeY8DaRcXuZSnr-8-_Hw-tBY&_nc_ht=scontent.fhyd2-1.fna&oh=121f18233be49c71eb45eb4c6ade8b45&oe=5E928EB5" group-title="Hyderabad",HYD | SNS Channel
 http://49.206.195.59:82/hls/sns/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oJi0vLTOcnY/hqdefault.jpg" group-title="Hyderabad",HYD | Y5 Channel
 http://202.65.144.46:82/hls2/y5tv/index.m3u8
