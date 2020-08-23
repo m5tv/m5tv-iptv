@@ -6,7 +6,7 @@ http://103.250.39.13:82/hls3/mqtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VEvybSQQcfU/XXrikDymV2I/AAAAAAAAFXE/yI2A0CKWNk8dQfoyo4ufw06vp3XhqtuYACLcBGAsYHQ/h120/download%2B%25282%2529.jpg" group-title="Hyderabad",HYD | T TV Urdu
 http://103.242.154.2:83/hls/ttvurdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/EOVHNjR8aoHFKDod6k5mHN5LDQ_L_X-OwRQhqVr29RqI3F5EM1l0YXVPOKr7trmtDuo9XEA6zNd_eW9zLgiohXpoxAZUO41yL-9ZRScs2p8DyDZ99SfrXnz0elKYTXcrvjmr1HGBjkIZl837-7RaOiS0SI3aFTkkm5QbaoBNwipWqM-JPSwoFEkO66AUDPZGwy4I7VL7BX6LsO8tWh7UwRX3mC-bFqJFPACAXMVHkNLrAio8g0-4OmcKH2EVIpruWIz3n4aQRYBWEWDobRmIhafV4s-CcvTW-YTWKw48GeJX6WauVPvEh41SjXxXg_YM_upLvvgsOzr8xMMoNX7hQHBLPesBdHYKLjjplZ53yzPm0X4t1b9Jow4ol3bQp7hhacXIzIcbeTlSW0iCO1BN62NGuM0Q-8ERnDPBAMZIBSPQgesm2MbeQiJu62SbsnEmij48O-fbmEzSDUK6bE6hiUpgTCZ1KEAxzvJx9_wPa7HTJxpNio_mLFrhSsBhj_ED48DGxcK-QA63AQcYjtZaVT4fZl-CfcTrT0jRNGklLZgRBA3TJh5Nh9tFJeZGea4p1yqYuBmmd8xknoqJdNJPPCB-LTPI3YDAuFk5HbTEvDtp9D81w0kJuba6baywHuEN-Fu3y2PGCFw-eFp00ELdeyn5kNpfqk57q-b5z8Y51VncnAUCw-e08xbu=s307-no" group-title="Hyderabad",HYD | M5 Channel
-http://202.65.144.46:82/hls/99tv1/index.m3u8
+http://http://49.206.195.59:82/hls4/test/index.m3u8
 #EXTINF:-1 tvg-name="HYD | AAPTAK" group-title="Hyderabad",HYD | AAPTAK TV
 rtmp://blmtech.in:1935/blmlive/aaptaktv
 #EXTINF:-1 tvg-name="HYD | MY TV" group-title="Hyderabad",HYD | MY TV
@@ -32,7 +32,7 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlis
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-lQHEfVhunrI/XXriopbhDYI/AAAAAAAAFX8/NDZiph4NiqwLxDMNUTXenUOFcFmUciKbQCLcBGAsYHQ/h120/unnamed.jpg" group-title="Hyderabad",HYD | Real Ruby Channel
 http://realchannel.dlinkddns.com:82/hls/realchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RvJPKyIEfYw/XXrimb-IdHI/AAAAAAAAFXc/U8dn5U_eQjwsTvBD5Nyb4fDsdxTX92zjQCLcBGAsYHQ/h120/download%2B%25287%2529.jpg" group-title="Hyderabad",HYD | Ruby Channel
-http://103.250.39.13:82/hls3/rubytv/index.m3u8
+http://103.250.39.13:82/hls3/rubytv1/index.m3u8
 #EXTINF:-1 tvg-name="HYD | BBHARAT NEWS" group-tittle="Hyderabad",HYD | BBHARAT NEWS
 http://bbharatlive.in/hls/bbharat/index.m3u8 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/06/3tamiltv.jpg" group-title="IND Local",3Tamil TV
