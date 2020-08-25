@@ -4,7 +4,7 @@ http://103.250.39.13:82/hls3/4tvnews/index.m3u8
 #EXTINF:-1 tvg-logo="http://183.82.112.212:8082/mqtv.jpeg" group-title="Hyderabad",HYD | MQ TV
 http://103.250.39.13:82/hls3/mqtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VEvybSQQcfU/XXrikDymV2I/AAAAAAAAFXE/yI2A0CKWNk8dQfoyo4ufw06vp3XhqtuYACLcBGAsYHQ/h120/download%2B%25282%2529.jpg" group-title="Hyderabad",HYD | T TV Urdu
-http://103.242.154.2:83/hls/ttvurdu/index.m3u8
+rtmp://103.242.154.2:1935/ttv/ttvurdu
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/EOVHNjR8aoHFKDod6k5mHN5LDQ_L_X-OwRQhqVr29RqI3F5EM1l0YXVPOKr7trmtDuo9XEA6zNd_eW9zLgiohXpoxAZUO41yL-9ZRScs2p8DyDZ99SfrXnz0elKYTXcrvjmr1HGBjkIZl837-7RaOiS0SI3aFTkkm5QbaoBNwipWqM-JPSwoFEkO66AUDPZGwy4I7VL7BX6LsO8tWh7UwRX3mC-bFqJFPACAXMVHkNLrAio8g0-4OmcKH2EVIpruWIz3n4aQRYBWEWDobRmIhafV4s-CcvTW-YTWKw48GeJX6WauVPvEh41SjXxXg_YM_upLvvgsOzr8xMMoNX7hQHBLPesBdHYKLjjplZ53yzPm0X4t1b9Jow4ol3bQp7hhacXIzIcbeTlSW0iCO1BN62NGuM0Q-8ERnDPBAMZIBSPQgesm2MbeQiJu62SbsnEmij48O-fbmEzSDUK6bE6hiUpgTCZ1KEAxzvJx9_wPa7HTJxpNio_mLFrhSsBhj_ED48DGxcK-QA63AQcYjtZaVT4fZl-CfcTrT0jRNGklLZgRBA3TJh5Nh9tFJeZGea4p1yqYuBmmd8xknoqJdNJPPCB-LTPI3YDAuFk5HbTEvDtp9D81w0kJuba6baywHuEN-Fu3y2PGCFw-eFp00ELdeyn5kNpfqk57q-b5z8Y51VncnAUCw-e08xbu=s307-no" group-title="Hyderabad",HYD | M5 Channel
 http://49.206.195.59:82/hls3/test/index.m3u8
 #EXTINF:-1 tvg-name="HYD | AAPTAK" group-title="Hyderabad",HYD | AAPTAK TV
@@ -15,8 +15,12 @@ rtmp://blmtech.in:1935/blmlive/mytv
 rtmp://blmtech.in:1935/blmlive/hudatv
 #EXTINF:-1 tvg-logo="https://photos.google.com/album/AF1QipPT_tM1L9N90_z_UmR3uq_dIVdmLQll2Q6HnYeh/photo/AF1QipPC_SxXi_BV1klo3iTPzFzHLDDAK40Jy3T0pKZb" group-title="Hyderabad",HYD | SNS Channel
 http://49.206.195.59:82/hls/sns/index.m3u8
+#EXTINF:-1 tvg-logo="http://183.82.112.212:8082/ashk.jpg" group-title="Hyderabad",HYD | ASHK TV
+http://103.250.39.13:82/hls3/ashktv/index.m3u8
 #EXTINF:-1 tvg-logo="http://183.82.145.53:82/inn/video/poster.jpg" group-title="Hyderabad",HYD | INN Channel
 http://183.82.145.53:82/hls/inn/index.m3u8
+#EXTINF:-1 tvg-name="HYD | EPN TV" group-title="Hyderabad",HYD | EPN TV
+rtmp://amigofx.com:1935/EPNtv/EPNtv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7170rVPtaGL.png" group-title="Hyderabad",HYD | HMO Channel
 http://hi-techstream.com/hmo/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5x56tMYmKcM/XXrmVcE2kFI/AAAAAAAAFY4/czkPVkh3bGoVeogXYhZoqxtKGfGOY1LJgCLcBGAsYHQ/h120/download%2B%25289%2529.jpg" group-title="Hyderabad",HYD | Sphoorthy TV
