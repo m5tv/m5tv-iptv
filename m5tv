@@ -21,6 +21,8 @@ http://103.250.39.13:82/hls3/ashktv/index.m3u8
 http://183.82.145.53:82/hls/inn/index.m3u8
 #EXTINF:-1 tvg-name="HYD | EPN TV" group-title="Hyderabad",HYD | EPN TV
 rtmp://amigofx.com:1935/EPNtv/EPNtv
+#EXTINF:-1 tvg-name="HYD I REALWAVES" group-title="Hyderabad",HYD I REALWAVES
+http://103.41.91.175/hls/realwaves/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7170rVPtaGL.png" group-title="Hyderabad",HYD | HMO Channel
 http://hi-techstream.com/hmo/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5x56tMYmKcM/XXrmVcE2kFI/AAAAAAAAFY4/czkPVkh3bGoVeogXYhZoqxtKGfGOY1LJgCLcBGAsYHQ/h120/download%2B%25289%2529.jpg" group-title="Hyderabad",HYD | Sphoorthy TV
