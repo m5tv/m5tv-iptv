@@ -8,7 +8,7 @@ rtmp://103.242.154.2:1935/ttv/ttvurdu
 #EXTINF:-1 tvg-logo="http://183.82.112.212:8082/m5tv.jpg" tvg-name="HYD | M5 CHANNEL" group-title="Hyderabad",HYD | M5 CHANNEL
 http://blmtech.in:8086/hls/jdm5tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfMl84ZGZjMTk4Zg/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Hyderabad",HYD | Boss tv
-rtmp://http://103.206.104.208:1935/stream/bosstv
+rtmp://103.206.104.208:1935/stream/bosstv
 #EXTINF:-1 tvg-name="HYD | AAPTAK" group-title="Hyderabad",HYD | AAPTAK TV
 rtmp://blmtech.in:1935/blmlive/aaptaktv
 #EXTINF:-1 tvg-name="HYD | MY TV" group-title="Hyderabad",HYD | MY TV
