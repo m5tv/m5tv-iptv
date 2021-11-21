@@ -4,7 +4,7 @@ http://103.250.39.13:82/hls3/4tvnews/index.m3u8
 #EXTINF:-1 tvg-logo="http://183.82.112.212:8082/mqtv.jpeg" group-title="Hyderabad",HYD | MQ TV
 http://103.250.39.13:82/hls3/mqtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VEvybSQQcfU/XXrikDymV2I/AAAAAAAAFXE/yI2A0CKWNk8dQfoyo4ufw06vp3XhqtuYACLcBGAsYHQ/h120/download%2B%25282%2529.jpg" group-title="Hyderabad",HYD | T TV Urdu
-rtmp://103.242.154.2:1935/ttv/ttvurdu
+http://103.242.154.2:83/hls/ttvurdu/index.m3u8
 #EXTINF:-1 tvg-logo="http://183.82.112.212:8082/m5tv.jpg" tvg-name="HYD | M5 CHANNEL" group-title="Hyderabad",HYD | M5 CHANNEL
 http://blmtech.in:8086/hls/jdm5tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfMl84ZGZjMTk4Zg/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Hyderabad",HYD | Boss tv
@@ -22,7 +22,7 @@ rtmp://blmtech.in:1935/blmlive/hudatv
 #EXTINF:-1 tvg-logo="https://photos.google.com/album/AF1QipPT_tM1L9N90_z_UmR3uq_dIVdmLQll2Q6HnYeh/photo/AF1QipPC_SxXi_BV1klo3iTPzFzHLDDAK40Jy3T0pKZb" group-title="Hyderabad",HYD | SNS Channel
 http://49.206.195.59:82/hls/sns/index.m3u8
 #EXTINF:-1 tvg-logo="http://183.82.112.212:8082/ashk.jpg" group-title="Hyderabad",HYD | ASHK TV
-http://103.250.39.13:82/hls3/ashktv/index.m3u8
+rtmp://ashktv.imagetv.in:1935/ashktv/ashktv
 #EXTINF:-1 tvg-logo="http://183.82.145.53:82/inn/video/poster.jpg" group-title="Hyderabad",HYD | INN Channel
 http://183.82.145.53:82/hls/inn/index.m3u8
 #EXTINF:-1 tvg-name="HYD | EPN TV" group-title="Hyderabad",HYD | EPN TV
@@ -34,7 +34,7 @@ http://183.82.112.212:8082/hls/sphoorthy/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-0RvXlqG2qyw/XXringQEdcI/AAAAAAAAFXo/7HmJWeiO2F4yPDMYBZzuTH7x8K8gDt4QgCLcBGAsYHQ/h120/download.png" group-title="Hyderabad",HYD | BBN TV
 http://49.206.192.222:8080/hls/bbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RvJPKyIEfYw/XXrimb-IdHI/AAAAAAAAFXc/U8dn5U_eQjwsTvBD5Nyb4fDsdxTX92zjQCLcBGAsYHQ/h120/download%2B%25287%2529.jpg" group-title="Hyderabad",HYD | Ruby Channel
-http://103.250.39.13:82/hls3/rubytv1/index.m3u8
+https://4tvstream.in/hls2/ruby/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="*** INDIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bopCE0h.png" group-title="INDIA",*** INDIA - github.com/Free-IPTV
