@@ -9,6 +9,10 @@ rtmp://103.242.154.2:1935/ttv/ttvurdu
 http://blmtech.in:8086/hls/jdm5tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfMl84ZGZjMTk4Zg/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Hyderabad",HYD | Boss tv
 rtmp://103.206.104.208:1935/stream/bosstv
+#EXTINF:-1 tvg-name="HYD | TV7URDU" group-title="Hyderabad",HYD | TV7 URDU
+rtmp://choicetv.in:1935/stream/tv7
+#EXTINF:-1 tvg-name="HYD | YAMTV SHIA" group-title="Hyderabad",HYD | YAMTV SHIA
+rtmp://49.206.192.107:1935/yamshia/yamshia
 #EXTINF:-1 tvg-name="HYD | AAPTAK" group-title="Hyderabad",HYD | AAPTAK TV
 rtmp://blmtech.in:1935/blmlive/aaptaktv
 #EXTINF:-1 tvg-name="HYD | MY TV" group-title="Hyderabad",HYD | MY TV
