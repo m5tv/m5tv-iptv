@@ -9,7 +9,7 @@ http://103.242.154.2:83/hls/ttvurdu/index.m3u8
 http://blmtech.in:8086/hls/jdm5tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfMl84ZGZjMTk4Zg/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Hyderabad",HYD | Boss tv
 rtmp://103.206.104.208:1935/stream/bosstv
-#EXTINF:-1 tvg-logo="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FSyedAkramReporter%2F&psig=AOvVaw3nH_8bMt63W0OW8wLmwfKw&ust=1637615150741000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj83OeuqvQCFQAAAAAdAAAAABAD/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Hyderabad",HYD | TV7 URDU
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQglXHdpeyUZeriQUv9AYNTZWbKiz2ul2AHKDyK=s88-c-k-c0x00ffffff-no-rj group-title="Hyderabad",HYD | TV7 URDU
 rtmp://choicetv.in:1935/stream/tv7
 #EXTINF:-1 tvg-name="HYD | YAMTV SHIA" group-title="Hyderabad",HYD | YAMTV SHIA
 rtmp://49.206.192.107:1935/yamshia/yamshia
