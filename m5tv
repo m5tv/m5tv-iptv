@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yjCQId6VC3I/XXrikIl_hQI/AAAAAAAAFXI/6dwDU_vN0too5g5bpzQfdvRwWXg_38lxgCLcBGAsYHQ/h120/download%2B%25281%2529.jpg" group-title="Hyderabad",HYD | 4TV
-https://4tvstream.in/hls2/4tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://183.82.112.212:8082/mqtv.jpeg" group-title="Hyderabad",HYD | MQ TV
-http://103.250.39.13:82/hls3/mqtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VEvybSQQcfU/XXrikDymV2I/AAAAAAAAFXE/yI2A0CKWNk8dQfoyo4ufw06vp3XhqtuYACLcBGAsYHQ/h120/download%2B%25282%2529.jpg" group-title="Hyderabad",HYD | T TV Urdu
-http://103.242.154.2:83/hls/ttvurdu/index.m3u8
 #EXTINF:-1 tvg-logo="http://183.82.112.212:8082/m5tv.jpg" tvg-name="HYD | M5 CHANNEL" group-title="Hyderabad",HYD | M5 CHANNEL
 http://blmtech.in:8086/hls/jdm5tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfMl84ZGZjMTk4Zg/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Hyderabad",HYD | Boss tv
@@ -13,6 +7,16 @@ rtmp://103.206.104.208:1935/stream/bosstv
 rtmp://choicetv.in:1935/stream/tv7
 #EXTINF:-1 tvg-name="HYD | YAMTV SHIA" group-title="Hyderabad",HYD | YAMTV SHIA
 rtmp://49.206.192.107:1935/yamshia/yamshia
+#EXTINF:0 group-title="HYD LOCAL"tvg-logo="http://103.206.104.208:8080/logo/99tv.jpg", 99TV
+http://103.206.104.208:8080/channel/99tv/index.m3u8
+#EXTINF:0 group-title="HYD LOCAL"tvg-logo="http://103.206.104.208:8080/logo/ttvurdu.jpg" TTV URDU 
+http://117.203.103.9:8080/hls/ttvurdu/index.m3u8
+#EXTINF:0 group-title="HYD LOCAL"tvg-logo="http://103.206.104.208:8080/logo/hmochannel.png", HMO Channel
+http://kheranimassmedia.com/hmo/live/index.m3u8
+#EXTINF:0 group-title="HYD LOCAL"tvg-logo="http://103.206.104.208:8080/logo/fizatvchannel.png", FIZA Tv Channel
+http://blmtech.in:8086/hls/fizatv/index.m3u8
+#EXTINF:0 group-title="HYD LOCAL"tvg-logo="http://103.206.104.208:8080/logo/ccnchannel.png", CCN Channel
+rtmp://stream.logosys.in:1935/ccnchannel/ccnchannel
 #EXTINF:-1 tvg-name="HYD | AAPTAK" group-title="Hyderabad",HYD | AAPTAK TV
 rtmp://blmtech.in:1935/blmlive/aaptaktv
 #EXTINF:-1 tvg-name="HYD | MY TV" group-title="Hyderabad",HYD | MY TV
@@ -35,6 +39,11 @@ http://183.82.112.212:8082/hls/sphoorthy/index.m3u8
 http://49.206.192.222:8080/hls/bbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RvJPKyIEfYw/XXrimb-IdHI/AAAAAAAAFXc/U8dn5U_eQjwsTvBD5Nyb4fDsdxTX92zjQCLcBGAsYHQ/h120/download%2B%25287%2529.jpg" group-title="Hyderabad",HYD | Ruby Channel
 https://4tvstream.in/hls2/ruby/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yjCQId6VC3I/XXrikIl_hQI/AAAAAAAAFXI/6dwDU_vN0too5g5bpzQfdvRwWXg_38lxgCLcBGAsYHQ/h120/download%2B%25281%2529.jpg" group-title="Hyderabad",HYD | 4TV
+https://4tvstream.in/hls2/4tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://183.82.112.212:8082/mqtv.jpeg" group-title="Hyderabad",HYD | MQ TV
+http://103.250.39.13:82/hls3/mqtv/index.m3u8#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VEvybSQQcfU/XXrikDymV2I/AAAAAAAAFXE/yI2A0CKWNk8dQfoyo4ufw06vp3XhqtuYACLcBGAsYHQ/h120/download%2B%25282%2529.jpg" group-title="Hyderabad",HYD | T TV Urdu
+http://103.242.154.2:83/hls/ttvurdu/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="*** INDIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bopCE0h.png" group-title="INDIA",*** INDIA - github.com/Free-IPTV
