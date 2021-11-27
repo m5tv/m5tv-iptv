@@ -5,8 +5,6 @@ http://blmtech.in:8086/hls/jdm5tv/index.m3u8
 rtmp://103.206.104.208:1935/stream/bosstv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQglXHdpeyUZeriQUv9AYNTZWbKiz2ul2AHKDyK=s88-c-k-c0x00ffffff-no-rj group-title="Hyderabad",HYD | TV7 URDU
 rtmp://choicetv.in:1935/stream/tv7
-#EXTINF:-1 tvg-name="HYD | YAMTV SHIA" group-title="Hyderabad",HYD | YAMTV SHIA
-rtmp://49.206.192.107:1935/yamshia/yamshia
 #EXTINF:0 group-title="HYD LOCAL"tvg-logo="http://103.206.104.208:8080/logo/99tv.jpg", 99TV
 http://103.206.104.208:8080/channel/99tv/index.m3u8
 #EXTINF:0 group-title="HYD LOCAL"tvg-logo="http://103.206.104.208:8080/logo/ttvurdu.jpg" TTV URDU 
