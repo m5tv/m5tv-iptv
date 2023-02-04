@@ -3,6 +3,8 @@
 http://blmtech.in:8086/hls/jdm5tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://183.82.112.212:8082/m5.jpg" tvg-name="HYD | Sach Newstv" group-title="Hyderabad",HYD | Sach 
 rtmp://stream.imagetv.in:1935/live/jd047
+#EXTINF:-1 tvg-logo="http://183.82.112.212:8082/m5.jpg" tvg-name="HYD | Sach Newstv" group-title="Hyderabad",HYD | NOD TV  
+rtmp://stream.imagetv.in:1935/live/jd049
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZWJvc3N0di5ib3NzdHZfc2NyZWVuc2hvdHNfMl84ZGZjMTk4Zg/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Hyderabad",HYD | Boss tv
 rtmp://103.206.104.208:1935/stream/bosstv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQglXHdpeyUZeriQUv9AYNTZWbKiz2ul2AHKDyK=s88-c-k-c0x00ffffff-no-rj group-title="Hyderabad",HYD | TV7 URDU
